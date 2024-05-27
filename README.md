@@ -1,2 +1,3 @@
-# Practica2AndresAlarcon
-Lenguajes de programacion Andres Alarcon
+Andrés Felipe Alarcón Rojas
+GHC 9.2.1.
+Online GDB.
